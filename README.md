@@ -147,7 +147,7 @@ This project was collaboratively developed by:
 * **Sajin Pradhan**
 * **Smriti Gurung**
 * **Urisha Khanal**
-* 
+  
 
  All of the contributors worked together on the design, development, testing, and documentation of the Laser Tag Game.
 
